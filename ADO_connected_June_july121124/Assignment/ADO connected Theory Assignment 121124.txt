@@ -1,0 +1,10 @@
+Theory Questions
+Q1) What is ADO.NET's connected architecture?
+Q2) What are the main objects used in connected architecture?
+Q3) Explain SqlConnection) with example.
+Q4) Explain SqlCommand) with example.
+Q5) Explain SqlDataReader with example.
+
+Practical Assignment Questions
+Q1) create Teacher table with proper columns and perform select operation on it
+Q2) create Cars table with proper columns and perform select operation using ADO.net connected architecture  on it
